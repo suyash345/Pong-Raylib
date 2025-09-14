@@ -177,6 +177,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="SpaceInvaders.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pong.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
