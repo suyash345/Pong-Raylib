@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\suyas\\source\\SpaceInvaders\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7A147A1-023B-434F-A054-0260F1EAC2EE}|SpaceInvaders\\SpaceInvaders.vcxproj|C:\\Users\\suyas\\source\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7A147A1-023B-434F-A054-0260F1EAC2EE}|SpaceInvaders\\SpaceInvaders.vcxproj|solutionrelative:SpaceInvaders\\SpaceInvaders.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7A147A1-023B-434F-A054-0260F1EAC2EE}|SpaceInvaders\\SpaceInvaders.vcxproj|C:\\Users\\suyas\\source\\SpaceInvaders\\SpaceInvaders\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D7A147A1-023B-434F-A054-0260F1EAC2EE}|SpaceInvaders\\SpaceInvaders.vcxproj|solutionrelative:SpaceInvaders\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "SpaceInvaders.hpp",
+              "DocumentMoniker": "C:\\Users\\suyas\\source\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.hpp",
+              "RelativeDocumentMoniker": "SpaceInvaders\\SpaceInvaders.hpp",
+              "ToolTip": "C:\\Users\\suyas\\source\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.hpp",
+              "RelativeToolTip": "SpaceInvaders\\SpaceInvaders.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-13T07:10:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pong.hpp",
               "DocumentMoniker": "C:\\Users\\suyas\\source\\SpaceInvaders\\SpaceInvaders\\Pong.hpp",
               "RelativeDocumentMoniker": "SpaceInvaders\\Pong.hpp",
@@ -39,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\suyas\\source\\SpaceInvaders\\SpaceInvaders\\main.cpp",
               "RelativeDocumentMoniker": "SpaceInvaders\\main.cpp",
               "ToolTip": "C:\\Users\\suyas\\source\\SpaceInvaders\\SpaceInvaders\\main.cpp",
               "RelativeToolTip": "SpaceInvaders\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-12T11:20:27.583Z",
               "EditorCaption": ""
